@@ -1,3 +1,5 @@
 sreamlit
 scikit-learn
 sentence_transformer
+torch 
+numpy
