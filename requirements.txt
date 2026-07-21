@@ -1,5 +1,5 @@
 streamlit
 scikit-learn
-sentence_transformer
+sentence-transformers
 torch 
 numpy
