@@ -78,22 +78,22 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
+## 🌐 app link
 
-Add your Streamlit deployment link here:
 
-https://YOUR-STREAMLIT-APP.streamlit.app
+
+https://codealphafaqchatbot-wjxp7u3aaedqpczerxuomv.streamlit.app/
 
 ---
 
 ## 📸 Screenshot
 
-Add a screenshot of your chatbot here.
 
-Example:
+
+
 
 ```
-![Chatbot Screenshot](screenshot.png)
+c:\Users\sathwika\OneDrive\Pictures\Screenshots\chatbot.png
 ```
 
 ---
