@@ -1,4 +1,4 @@
-sreamlit
+streamlit
 scikit-learn
 sentence_transformer
 torch 
